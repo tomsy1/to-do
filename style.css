@@ -7,13 +7,20 @@ body {
 	color: #999;
 	background: #f1f1f1;
 }
+h1 {
+	color: #7c795d;
+	font-family: 'Trocchi', serif; 
+	font-size: 25px; 
+	font-weight: normal; 
+	line-height: 25px; 
+	margin: 0; }
 
 .wrap {
 	width: 90%;
 	margin: 0 auto;
 }
 .shopping-header {
-	background: #ffcc33;
+	background: #d2b29b;
 }
 
 .task-list {
