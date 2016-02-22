@@ -6,6 +6,9 @@
 </head>
 <body>
 	<div class="wrap">
+		<div class="shopping-header">
+			<h1>Shopping</h1>
+		</div>
 		<div class="task-list">
 			<ul>
 
