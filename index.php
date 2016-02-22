@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Lea is greatjkjkj jk kj jk j k</title>
+	<title>James & Lea</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
