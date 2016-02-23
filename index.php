@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>James & Lea</title>
+	<title>fJames & Lea</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
