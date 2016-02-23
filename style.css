@@ -44,7 +44,7 @@ h1 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 62px; font-we
 }
 
 .task-list li .delete-button {
-	width: 30px;
+	width: 50px;
 	height: auto;
 	padding-top: 7px;
 	float: right;
